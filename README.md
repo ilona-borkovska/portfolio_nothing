@@ -2,8 +2,6 @@
 <h1>Nothing Landing Page</h1>
 
 <im/>
-<a href='https://ilona-borkovska.github.io/portfolio_nothing/' rel='nofollow'>
-Nothing</a>
 
 <p>This is a modern, responsive design that is optimized for various screen sizes. The page has been designed with a modern and minimalist aesthetic and features. Using the <strong>BEM methodology</strong> and <strong>SCSS</strong> made it easier to organize and maintain the code.</p>
 
