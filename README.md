@@ -3,6 +3,7 @@
 
 <im/>
 <a href='https://ilona-borkovska.github.io/portfolio_nothing/' rel='nofollow'>
+<img src="https://img.shields.io/badge/Bose_link_🎧-4e93e6?style=for-the-badge&logo=Portfolio&logoColor=black" alt="portfolio">
 </a>
 
 <p>This is a modern, responsive design that is optimized for various screen sizes. The page has been designed with a modern and minimalist aesthetic and features. Using the <strong>BEM methodology</strong> and <strong>SCSS</strong> made it easier to organize and maintain the code.</p>
